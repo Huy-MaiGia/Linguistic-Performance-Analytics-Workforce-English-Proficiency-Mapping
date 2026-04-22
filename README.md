@@ -4,7 +4,7 @@
 Analyzing CEFR-aligned English test results to drive data-informed corporate training strategies.
 
 📋 Project Overview
-This project performs an end-to-end Exploratory Data Analysis (EDA) on internal English proficiency test results from MiTek Vietnam. By cleaning and analyzing workforce scores across Listening, Reading, and Writing, the analysis identifies high-performing employee clusters, uncovers data discrepancies, and provides actionable recommendations for targeted language development programs.
+This project performs an end-to-end Exploratory Data Analysis (EDA) on internal English proficiency test results from Company A. By cleaning and analyzing workforce scores across Listening, Reading, and Writing, the analysis identifies high-performing employee clusters, uncovers data discrepancies, and provides actionable recommendations for targeted language development programs.
 
 🛠️ Tech Stack
 Language: Python 3.x
